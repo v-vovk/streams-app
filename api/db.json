@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "id": 1
+    },
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "id": 2
+    },
+    {
+      "title": "asdf",
+      "description": "adf",
+      "id": 3
+    },
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "id": 4
+    },
+    {
+      "title": "asdf",
+      "description": "1435fsdf afd sa ",
+      "userId": "116935755431806302787",
+      "id": 5
+    },
+    {
+      "title": "asdf",
+      "description": "1435fsdf afd sa ",
+      "userId": "116935755431806302787",
+      "id": 6
+    }
+  ]
+}
